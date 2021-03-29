@@ -22,7 +22,7 @@
        
        
        
-       # 4. Lista de componentes
+# 4. Lista de componentes
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166453232_275715357327841_3501731949848602196_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGP6_2g_eG-YPT0Gj1cymogZqKpTW_aEK1moqlNb9oQrYsbO2iW-XbLYHM9cvsmOyQcIxwLoTyQVaRPR1DLQXf6&_nc_ohc=5zU-NASdwyEAX_2gy_-&_nc_ht=scontent.fuio1-1.fna&oh=26c881dd78561b660b6d86c714282994&oe=60860A3D)
 
 # 5.Explicación
