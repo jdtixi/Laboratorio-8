@@ -91,8 +91,9 @@ El circuito no necesita de alguna configuración en especial, solo debemos asegu
 
 # 7.  Aportaciones o Recomendaciones
 
-•	La máxima transferencia de potencia es de gran importancia en el ámbito de la electrónica, ya que de acurdo a estos se diseñan transformadores, con el fin de evitar excesivas pérdidas de calor
-•	Se recomienda no olvidarse de cambiar las perillas correctamente de los multímetros, caso contrario se pueden tener valores incorrectos (ya que estamos trabajando en un simulador)
+•	La máxima transferencia de potencia es de gran importancia en el ámbito de la electrónica, ya que de acurdo a estos se diseñan transformadores, con el fin de evitar excesivas pérdidas de calor.
+
+•	Se recomienda no olvidarse de cambiar las perillas correctamente de los multímetros, caso contrario se pueden tener valores incorrectos (ya que estamos trabajando en un simulador), en la realidad podriamos dañar el multímetro
 
 9 Conclusiones 
 
