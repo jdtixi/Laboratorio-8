@@ -74,15 +74,22 @@ En el  simulador obtenemos:
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166392999_275715363994507_178812995217346773_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHv9FcEfwl-bWaYreyBc5Vh_F8PD2cKDk38Xw8PZwoOTZW0rmxnfGQnuWchBvm5y7BkxpLg_hAwWLDzQLpLFbFT&_nc_ohc=wb9cYla-bJEAX9Q4RJd&_nc_ht=scontent.fuio1-1.fna&oh=fa05796d1eba8b3438291c1ccfebbe46&oe=60864331)
 
+
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166227458_275730397326337_2199224708777147769_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEK-ZSkDsgoBItJ9MJjVY6mxzfpDpB9Xi7HN-kOkH1eLgaN4F3Ap6qVwAhemMBhtKgaFHS5cYNgPAQqS6rBNrka&_nc_ohc=5pNXcYKFBcIAX8tEEmB&_nc_ht=scontent.fuio1-1.fna&oh=502f5d3de58093aab72b7e5acada7387&oe=60891DD7)
+
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/164765979_276431160589594_5556110599103217407_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFAHnhJVQ7bESyBZb1E7B-hqGujkfqCHbGoa6OR-oIdsQfWxK1PX_hfveNKXEaFGpfrHo6qpEMZxKPehW2YEV_S&_nc_ohc=RBEbuWMU2V4AX92yPhh&_nc_ht=scontent.fuio1-1.fna&oh=3b61b66bf9c0786babd02bf7b9f58479&oe=6087E543)
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166580040_275715370661173_778363493443488406_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeG3yTWyxnCMxlu-KGUNRkcsAfJoV7edQBcB8mhXt51AF53qbZdHzVX37PZqVbGYM91V0DkWaVIuBMkqWsZSNhME&_nc_ohc=NI2VKo9b8a4AX_e5y4x&_nc_ht=scontent.fuio1-1.fna&oh=33fd880b836ae7c56996713f4418618b&oe=6087555A)
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166950281_275718317327545_1708578734427841273_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEEtmWaBOFSjEZd4aRI21HAlRrkQfaDiu2VGuRB9oOK7XdCsbmK1w4hgo4ywtX2L_Oe0qEp5nwnWigYmI4k1CN6&_nc_ohc=3UjrgJPlb-IAX9PqqDS&_nc_ht=scontent.fuio1-1.fna&oh=1121c9f76979d0654dc56eb2d0371914&oe=60879541)
 
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/167531745_276431167256260_1989772800105308711_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHIeDaMRDXMhpj6Bct0lnvVawORA8BJ-xZrA5EDwEn7Fq_zYq-YNCDowStyrkqdrHzxcD-56x6OTMBFgwptCGv1&_nc_ohc=bOypTsJe4CkAX8icyt4&_nc_ht=scontent.fuio1-1.fna&oh=c014a10b63f2e464b74126283534db38&oe=608A27AB)
+
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166227458_275715417327835_9010075674705831574_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHlUILpwrNd4xbPMItT_y7ie0tJk1B-C497S0mTUH4Lj43bXl_qGBGjqN9PegDtqfby_WSnPN_ZdAwrxkRvs0Eu&_nc_ohc=E0BHekiu3hwAX-UMvVu&_nc_ht=scontent.fuio1-1.fna&oh=40b299f26cae01527a4b8b243f9708da&oe=608831DF)
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166761752_275718337327543_2662463778662292598_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFUNjk5B0uGBcyy_Y3NJa6RPD-1wzETml88P7XDMROaX9qmE7t9gAofPV_HtncvKSZXVQONDQ3nsAQKyNq0fM_L&_nc_ohc=qVGS6CNP6gIAX88aoQV&_nc_ht=scontent.fuio1-1.fna&oh=38137a9fde9d9d859f90bca77da01ee9&oe=60890C38)
+
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/166941622_276431183922925_4523397889420303761_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEtF96g1GewfQW_tcCaVTNfLaVs3mMrsmAtpWzeYyuyYJM99GOX13E3_TMz0MKxcrwUMHkqsKuSWFeV_5Kn0Lgu&_nc_ohc=rQG_d-I1jesAX-KkVi3&_nc_ht=scontent.fuio1-1.fna&oh=a0f33125f6c74ef2201b900fefafbc24&oe=60881160)
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166649180_275715410661169_3102522566301238733_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeH3GFOQ_EBQomJBpGrPnwUdpeFt743vaDSl4W3vje9oNNa5Ctj1eSP4FU5_9PI0S6429ipanY85KGLgvTtmgoFg&_nc_ohc=kO6kMS0xkogAX_r9kMi&_nc_ht=scontent.fuio1-1.fna&oh=66c02c1321580e04c0d9fa86a2f65bd6&oe=6088F795)
 
