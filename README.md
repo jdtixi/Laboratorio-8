@@ -50,15 +50,17 @@ Uno de los personajes destacados al momento de abordar este tema es el físico e
 
 
 *** Ejemplo del Teorema ***
+
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/167201515_276468277252549_2819464727540350776_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEp10zPXdQP56FNx52J_DUgrSV90OWta9atJX3Q5a1r1jehxQ9UuJopVKx-ETDFSyZvmbLLuCgZdnYuqyJOgl6T&_nc_ohc=44HQeg9cMKMAX-A32IG&_nc_ht=scontent.fuio1-1.fna&oh=48ac09f4eef9b019cc9ea106788924cc&oe=60878B45)
  
- (PRIMERA IMAGEN)
- 
+  
  En esta ocasión vamos a tomar el siguiente circuito como ejemplo y realizamos los pasos anteriormente mencionados y de esa manera somos capaces de visualizar un posible caso de uso del teorema, sin embargo, para explicarlo de mejor manera nos centraremos sobre todo en el desarrollo que nos llevo a resolver el circuito dado en el laboratorio. 
 Algo que debemos recordar es que, en una red eléctrica de CA, la potencia máxima se transferirá de la sección de fuente a la sección de carga de manera que sabemos que la impedancia de la carga es un conjugado complejo de la impedancia de la fuente. Otro aspecto fundamental para comprender este tema es que, en el circuito de CA, la fuente también posee una reactancia interna. Por lo tanto, para tener una transferencia de potencia máxima, la carga debe poseer de manera continua el mismo valor de reactancia, pero considerando además que debe ser del tipo opuesto. En otras palabras, esto significa que la carga debe tener una reactancia capacitiva equivalente para que sea aplicable al caso o si la fuente tiene reactancia inductiva, y viceversa.
 
 
 
-(segunda IMAGEN)
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/167310318_276467340585976_7064591745345469516_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGehiuSvTOYd_PicIf4hmf5RRkFcZ1BLfZFGQVxnUEt9tk8xiN4GgMAlohWNTAnOuiuT-odhdcoJB9XlEbr6NoN&_nc_ohc=Yj_WMoVBpZgAX9v2BaV&_nc_ht=scontent.fuio1-1.fna&oh=004e4d6472991a7a7c832243508d85f0&oe=6087B703)
+ 
 
 
 *** Aplicaciones del Teorema ***
