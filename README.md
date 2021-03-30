@@ -48,13 +48,19 @@ Durante este parcial los temas tratados se entrelazan para mejorar la comprensi�
 Uno de los primeros conceptos y principal que debemos abordar en este informe es el teorema de Máxima Transferencia de Potencia se puede aplicar tanto a los circuitos de CC como a los circuitos CA, con la diferencia de que la resistencia se reemplaza por la impedancia en el circuito de CA. Además, es importante recalcar que este teorema mantiene un tratamiento especial ya que hay posibles valores que puede tomar en cuestión la carga, como es el caso de energía alterna donde esta es una impedancia y con cada variación somos consientes que la aplicación varía de acuerdo con los tipos de valores. 
 Uno de los personajes destacados al momento de abordar este tema es el físico e ingeniero alemán Moritz Hermann von Jacobi, a quien se le atribuye el descubrimiento de la Ley de Jacobi. También el Teorema de Máxima Potencia establece como escoger la resistencia de carga, una vez que la resistencia de fuente ha sido fijada. Incluso debemos tomar en cuenta que, dada una cierta resistencia de carga, la resistencia de potencia es siempre de valor nulo, sin depender del valor de la resistencia de carga.
 
+---------------------
        
 # 4. Lista de componentes
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166453232_275715357327841_3501731949848602196_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGP6_2g_eG-YPT0Gj1cymogZqKpTW_aEK1moqlNb9oQrYsbO2iW-XbLYHM9cvsmOyQcIxwLoTyQVaRPR1DLQXf6&_nc_ohc=5zU-NASdwyEAX_2gy_-&_nc_ht=scontent.fuio1-1.fna&oh=26c881dd78561b660b6d86c714282994&oe=60860A3D)
 
+---------------------
+
 # 5.Explicación
+
 En la presente práctica procedemos a armar el circuito dado en la guía N°8, que es uno de los circuitos más simple que se estudian en el análisis de nuestra materia, el circuito lo armaremos en el simulador de Tinkercad, para eso vamos a tomar la fuente de 15 V y conectamos el polo positivo de la fuente a la primera terminal de la resistencia de 1.2k Ohm, para luego conectar la segunda terminal de la resistencia de 1.2k a la primera terminal de la resistencia de carga y la terminal que queda de esta resistencia la conectaremos al polo negativo de la fuente de 15 V.
  
+---------------------
+
 ### Cálculos
 Mida el voltaje y la corriente en la resistencia de carga para cada uno de las resistencias dadas
 
@@ -93,6 +99,8 @@ Ejemplo
 
 y la Potencia calculada teóricamente es el resultado de multiplicar cada corriente que pasa por el resistor de carga por el voltaje en el resistor de carga.
 
+---------------------
+
 #### Preguntas
 
 **¿Se cumple el Teorema de la Máxima Transferencia de Potencia?**
@@ -110,11 +118,15 @@ En la resistencia de 1k Ohm alcanzo una potencia de 0.0465 Watts
 
 Con una resistencia de 1.2k Ohm  según la teoría.
 
+---------------------
+
 # 6. Descripción de prerrequisitos y configuración
 
 Como primer prerrequisito para esta práctica es tener un conocimiento previo de la Potencia Máxima a manera de introducción, además de saber los teoremas de Thévenin y Norton.
 
 El circuito no necesita de alguna configuración en especial, solo debemos asegurarnos de realizar las conexiones en serie de las resistencias correctamente. Para las fuentes de voltaje asegurarnos de que tengan lo valores adecuados de voltaje y par los multímetros, cambiar las perillas de corriente a voltaje con cuidado.
+
+---------------------
 
 # 7.  Aportaciones o Recomendaciones
 
@@ -122,12 +134,20 @@ El circuito no necesita de alguna configuración en especial, solo debemos asegu
 
 •	Se recomienda no olvidarse de cambiar las perillas correctamente de los multímetros, caso contrario se pueden tener valores incorrectos (ya que estamos trabajando en un simulador), en la realidad podriamos dañar el multímetro
 
-9 Conclusiones 
+---------------------
+
+# 8. Conclusiones 
 
 
 
-10 Bibliografía
-11 Anexos
+---------------------
+
+# 9. Bibliografía
+
+
+---------------------
+
+# 10. Anexos
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166094380_275718140660896_6196881548027079173_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFIf_S0Eo8CLcHj5Ih5vcMA7rknF4CFVFruuScXgIVUWoNOk_i4ZoDESfD5KZNAjsgY_n_4pUg570i7xtBd_MP6&_nc_ohc=nRaUUOCoASoAX8VihWe&_nc_ht=scontent.fuio1-1.fna&oh=3711d3f13ac27c1801bd9ca9b47ff103&oe=6087DD00)
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166273245_275718167327560_4087682550783510392_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFBIieHEpT83aLxFa-cnsnRDiBfiHIyPW8OIF-IcjI9b4su8qfKAEfTZQIoDnJRa3EWhA1V4p2HbFhRyeiQ8AG3&_nc_ohc=RLM4hTBZTf0AX9WH5ba&_nc_ht=scontent.fuio1-1.fna&oh=2bab58c9d5423957b78d54b89ccb65b1&oe=6087689F)
