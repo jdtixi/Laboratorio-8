@@ -48,6 +48,26 @@ Durante este parcial los temas tratados se entrelazan para mejorar la comprensi�
 Uno de los primeros conceptos y principal que debemos abordar en este informe es el teorema de Máxima Transferencia de Potencia se puede aplicar tanto a los circuitos de CC como a los circuitos CA, con la diferencia de que la resistencia se reemplaza por la impedancia en el circuito de CA. Además, es importante recalcar que este teorema mantiene un tratamiento especial ya que hay posibles valores que puede tomar en cuestión la carga, como es el caso de energía alterna donde esta es una impedancia y con cada variación somos consientes que la aplicación varía de acuerdo con los tipos de valores. 
 Uno de los personajes destacados al momento de abordar este tema es el físico e ingeniero alemán Moritz Hermann von Jacobi, a quien se le atribuye el descubrimiento de la Ley de Jacobi. También el Teorema de Máxima Potencia establece como escoger la resistencia de carga, una vez que la resistencia de fuente ha sido fijada. Incluso debemos tomar en cuenta que, dada una cierta resistencia de carga, la resistencia de potencia es siempre de valor nulo, sin depender del valor de la resistencia de carga.
 
+
+*** Ejemplo del Teorema ***
+ 
+ (PRIMERA IMAGEN)
+ 
+ En esta ocasión vamos a tomar el siguiente circuito como ejemplo y realizamos los pasos anteriormente mencionados y de esa manera somos capaces de visualizar un posible caso de uso del teorema, sin embargo, para explicarlo de mejor manera nos centraremos sobre todo en el desarrollo que nos llevo a resolver el circuito dado en el laboratorio. 
+Algo que debemos recordar es que, en una red eléctrica de CA, la potencia máxima se transferirá de la sección de fuente a la sección de carga de manera que sabemos que la impedancia de la carga es un conjugado complejo de la impedancia de la fuente. Otro aspecto fundamental para comprender este tema es que, en el circuito de CA, la fuente también posee una reactancia interna. Por lo tanto, para tener una transferencia de potencia máxima, la carga debe poseer de manera continua el mismo valor de reactancia, pero considerando además que debe ser del tipo opuesto. En otras palabras, esto significa que la carga debe tener una reactancia capacitiva equivalente para que sea aplicable al caso o si la fuente tiene reactancia inductiva, y viceversa.
+
+
+
+(segunda IMAGEN)
+
+
+*** Aplicaciones del Teorema ***
+
+Para entenderlo de mejor manera, decimos que la transferencia de potencia no coincide con la eficiencia máxima, dicho de manera más simple la aplicación de este teorema no da como resultado una eficiencia máxima o incluso alta. 
+Referente a la eficiencia de este proceso se considera que es del 50% tan solo en condiciones de transferencia de potencia máxima. Así, en la red del sistema eléctrico, esta condición llega a causar una gran caída de voltaje en las líneas lo que afecta de cierta manera al proceso como tal por lo que tuvimos que considerar este aspecto al momento de realizar la práctica de este laboratorio. Sin embargo, es bueno recordar que el principal objetivo de la red del sistema de energía es el de incrementar la eficiencia en lugar de la potencia máxima. Entonces, sabemos que el sistema de energía no llego a funcionar bajo la máxima transferencia de energía.
+El objetivo de la alta eficiencia en el desarrollo de este es tomado como primordial debido a la distribución de energía de CA, que nos indica una impedancia del generador relativamente baja cuando lo comparamos con la impedancia de carga. Así es fundamental comprende run caso aplicable más real, como es el caso de distribución de alimentación de CA, donde los amplificadores de audio construidos para la alta fidelidad están diseñados para una impedancia de salida relativamente baja y una impedancia de carga de altavoz que es considerada relativamente alta. Esto es mas conocido como relación, es decir, impedancia de salida e impedancia de carga conocido mejor como el factor de amortiguación que tiene un rango común de cien a mil. 
+
+
 ---------------------
        
 # 4. Lista de componentes
@@ -153,6 +173,11 @@ El circuito no necesita de alguna configuración en especial, solo debemos asegu
 ---------------------
 
 # 8. Conclusiones 
+
+Al culminar la práctica N°8 de este semestre podemos visualizar no solo prácticamente, teóricamente sino matemáticamente la funcionalidad del Teorema Máximo de Transferencia de Potencia, donde se nos dice que en una red suministra una potencia máxima a una resistencia de carga RL, cuando el valor de dicha resistencia de carga  es equivalente a la resistencia equivalente de Thévenin de la red, recordando que lo que nos permite Thévenin que el valor de las resistencias se puede sustituir por otra fuente de tensión y así facilitar los cálculos en la resolución del circuito. 
+Si algo podemos resaltar de este laboratorio es que este teorema nos permitió conocer de mejor manera el calculo de la máxima potencia no solo con cálculos manuales descritos en el informe, sino que además con ayuda del uso del simulador Tinkercad, que para esta ocasión resulto ser mucho más didáctico para analizar los resultados tabulados en las tablas anteriormente presentadas, donde de manera más general podemos comprobar la eficacia de este método que describe la condición para la transferencia de potencia máxima de una red activa a una resistencia de carga externa.
+
+Además, analizando los resultados expuestos en el informe somos capaces de visualizar que el porcentaje de error presente en el laboratorio no es grande, de modo, que concluimos que los resultados obtenidos y plasmados en este informe son en su mayoría exitosos hay que lo único diferenciable es el uso de decimales, donde en el simulador se mantienen los valores en decimas y nosotros por preferencia para mayor exactitud decidimos ponerlos en milésimas.  
 
 
 
