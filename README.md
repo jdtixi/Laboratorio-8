@@ -188,6 +188,7 @@ Además, analizando los resultados expuestos en el informe somos capaces de visu
 # 9. Bibliografía
 
 Teorema máxima transferencia de potencia en circuitos CA. Recuperado el 29 de Marzo de 2021, de https://www.youtube.com/watch?v=UzpnKdlnRFc
+
 Txelo Ruiz Vázquez, O. A. (2004). Análisis Básico de Circuitos Eléctricos y Electrónicos . Madrid: Pearson Prentice Hall.
 
 Castro, J. (21 de Noviembre de 2014). Tutoriales de electrónica Básica. Recuperado el 28 de Marzo de 2021, de http://tutorialesdeelectronicabasica.blogspot.com/2020/03/teorema-de-transferencia-de-potencia.html
@@ -197,10 +198,6 @@ Educatina. (19 de Septiembre de 2014). Máxima Transferencia de Potencia. Máxim
 Jack E. Kemmerly, W. H. (2007). Análisis de Circuitos en Ingeniería. México: Mc. Graw Hill.
 
 Zeines, B. (s.f.). Análisis de Circuitos Eléctricos . C.E.C.S.A.
-
-Instituto Tecnológico de Tláhuac. (11 de Diciembre de 2015). Máxima Transferencia de Potencia. 1.10. Teorema de la Máxima Transferencia de Potencia. Recuperado el 30 de Marzo de 2021, de https://sites.google.com/site/e91mediosdiitalesricardotrejo/home/1-10-teorema-de-la-maxima-transferencia-de-potencia
-
-Mario Colunga, Miguel Peña, Jorge Torres, Hermenegido de la Cruz. (6 de Mayo de 2013). Circuitos I. Circuitos I. Recuperado el 26 de Marzo de 2021
 
 Pavón, J. M. (19 de Noviembre de 2010). Teorema de Máxima Transferencia de Potencia. Teorema de Máxima Transferencia de Potencia. Recuperado el 30 de Marzo de 2021, de https://es.scribd.com/doc/75153355/Practica-6-Teorema-de-Maxima-Transferencia-de-Potencia
 
