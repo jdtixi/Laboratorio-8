@@ -64,15 +64,18 @@ En la presente práctica procedemos a armar el circuito dado en la guía N°8, q
 ### Cálculos
 Mida el voltaje y la corriente en la resistencia de carga para cada uno de las resistencias dadas
 
-Aquí incluiremos el ejemplo de los 4 primeros valores de las resistencias, en el artículo se encuentra completo.
+Aquí incluiremos el ejemplo de los 4 primeros valores de las resistencias, en el artículo hemos dejado todos los cálculos para las demás resistencias.
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/165440031_275718287327548_309379842936422743_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGHpXZmCcmrU-RUDHBvA9VhBPUUuuAZJSkE9RS64BklKQlYP1I9KmjBrVal1L7qpLxWy6up7fo4_vO-Hc_BbkiZ&_nc_ohc=J0f7QeNqAccAX_L2sJg&_nc_ht=scontent.fuio1-1.fna&oh=e5a4a80d9de692bb74bb8e5b96cfb1f7&oe=60879D93)
+
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/167169881_276431163922927_3144217169566029656_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHZwU9EdFm-jacxbefgaHuwhMgvsT_GqQKEyC-xP8apAmVEVA6q92B4cbA2oWi345GNetxcngEBgGwgtqa7iQh-&_nc_ohc=Uv4_XsUFEu8AX9KuZyk&_nc_ht=scontent.fuio1-1.fna&oh=c75ad0f1010fb9cf85947bac8e24bcbe&oe=608A1B8E)
 
 En el  simulador obtenemos:
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166392999_275715363994507_178812995217346773_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHv9FcEfwl-bWaYreyBc5Vh_F8PD2cKDk38Xw8PZwoOTZW0rmxnfGQnuWchBvm5y7BkxpLg_hAwWLDzQLpLFbFT&_nc_ohc=wb9cYla-bJEAX9Q4RJd&_nc_ht=scontent.fuio1-1.fna&oh=fa05796d1eba8b3438291c1ccfebbe46&oe=60864331)
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166227458_275730397326337_2199224708777147769_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEK-ZSkDsgoBItJ9MJjVY6mxzfpDpB9Xi7HN-kOkH1eLgaN4F3Ap6qVwAhemMBhtKgaFHS5cYNgPAQqS6rBNrka&_nc_ohc=5pNXcYKFBcIAX8tEEmB&_nc_ht=scontent.fuio1-1.fna&oh=502f5d3de58093aab72b7e5acada7387&oe=60891DD7)
+
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166580040_275715370661173_778363493443488406_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeG3yTWyxnCMxlu-KGUNRkcsAfJoV7edQBcB8mhXt51AF53qbZdHzVX37PZqVbGYM91V0DkWaVIuBMkqWsZSNhME&_nc_ohc=NI2VKo9b8a4AX_e5y4x&_nc_ht=scontent.fuio1-1.fna&oh=33fd880b836ae7c56996713f4418618b&oe=6087555A)
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166950281_275718317327545_1708578734427841273_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEEtmWaBOFSjEZd4aRI21HAlRrkQfaDiu2VGuRB9oOK7XdCsbmK1w4hgo4ywtX2L_Oe0qEp5nwnWigYmI4k1CN6&_nc_ohc=3UjrgJPlb-IAX9PqqDS&_nc_ht=scontent.fuio1-1.fna&oh=1121c9f76979d0654dc56eb2d0371914&oe=60879541)
