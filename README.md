@@ -27,7 +27,7 @@
 
 # 5.Explicación
 En la presente práctica procedemos a armar el circuito dado en la guía N°8, que es uno de los circuitos más simple que se estudian en el análisis de nuestra materia, el circuito lo armaremos en el simulador de Tinkercad, para eso vamos a tomar la fuente de 15 V y conectamos el polo positivo de la fuente a la primera terminal de la resistencia de 1.2k Ohm, para luego conectar la segunda terminal de la resistencia de 1.2k a la primera terminal de la resistencia de carga y la terminal que queda de esta resistencia la conectaremos al polo negativo de la fuente de 15 V.
-
+ 
 ### Cálculos
 Mida el voltaje y la corriente en la resistencia de carga para cada uno de las resistencias dadas
 
