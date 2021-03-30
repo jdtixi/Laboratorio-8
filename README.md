@@ -77,7 +77,7 @@ En la gráfica podemos observar como obtenemos una potencia máxima a medida que
 
 **¿Cuál fue la potencia máxima en RL? **
 
-En la resistencia de 1.5k Ohm alcanzo una potencia de 0.0465 Watts
+En la resistencia de 1k Ohm alcanzo una potencia de 0.0465 Watts
 
 **¿Para qué valor de RL se obtiene la MTP? **
 
