@@ -93,7 +93,13 @@ En el  simulador obtenemos:
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166649180_275715410661169_3102522566301238733_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeH3GFOQ_EBQomJBpGrPnwUdpeFt743vaDSl4W3vje9oNNa5Ctj1eSP4FU5_9PI0S6429ipanY85KGLgvTtmgoFg&_nc_ohc=kO6kMS0xkogAX_r9kMi&_nc_ht=scontent.fuio1-1.fna&oh=66c02c1321580e04c0d9fa86a2f65bd6&oe=6088F795)
 
-Las respectivas capturas de la simulación de los demas resistores se encuentra en el artículo.
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166094380_275718140660896_6196881548027079173_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFIf_S0Eo8CLcHj5Ih5vcMA7rknF4CFVFruuScXgIVUWoNOk_i4ZoDESfD5KZNAjsgY_n_4pUg570i7xtBd_MP6&_nc_ohc=nRaUUOCoASoAX8VihWe&_nc_ht=scontent.fuio1-1.fna&oh=3711d3f13ac27c1801bd9ca9b47ff103&oe=6087DD00)
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166273245_275718167327560_4087682550783510392_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFBIieHEpT83aLxFa-cnsnRDiBfiHIyPW8OIF-IcjI9b4su8qfKAEfTZQIoDnJRa3EWhA1V4p2HbFhRyeiQ8AG3&_nc_ohc=RLM4hTBZTf0AX9WH5ba&_nc_ht=scontent.fuio1-1.fna&oh=2bab58c9d5423957b78d54b89ccb65b1&oe=6087689F)
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166467366_275718170660893_9073457338352035402_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHo8Ary9hPAmb7bDtTcjEvKrySBGalklF-vJIEZqWSUX3kH1_v_6NOxknEqL06iFjwTSLa-TWAcGyxsEXbA7ahF&_nc_ohc=fQdV9ph20AQAX-Fumkz&_nc_ht=scontent.fuio1-1.fna&oh=cd40ffc8f4376c9f4b43f6e053f35dc1&oe=6085E230)
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166008144_275718197327557_6407089260761638171_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeECisGQzCII8iva9DzH9A5LGXtkcwDJJl0Ze2RzAMkmXU4JTR6cBzgW0YRDAE_TgV6zmKsPa3XsdU01wPpTJ0CD&_nc_ohc=PQ6TuLc1EXkAX-S58BA&_nc_ht=scontent.fuio1-1.fna&oh=9cb53544fade42171b7fbbf20fda49f3&oe=60887CC7)
+
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166859624_275718213994222_2652973170356002419_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeG07d9l1RiuO_qN5sU7StLUZm_S7x3jm9Fmb9LvHeOb0XJQGtZkX-6O-M3f6a_VbS2ahJuzID53r4b-Q0ICXfYs&_nc_ohc=KhnOecfpt8cAX-tHQ6u&_nc_ht=scontent.fuio1-1.fna&oh=595e3e9b30e6b995c29b487528f4a74b&oe=6088E18B)
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166289752_275718220660888_6464511626580933504_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEjAGtE83AN4-OoAcbkseiKP3pIU7JH1J0_ekhTskfUnVOdZ3Lg8rT465h_L1OQvYvQFylD-CoalHRfFV5Jtoj-&_nc_ohc=dYuWi66317kAX9HC6pk&_nc_ht=scontent.fuio1-1.fna&oh=d1c7241733f4a2767d8deb6bf37acddd&oe=608642FB)
 
 Una vez hallados los valores, tantos experimentales como calculados aplicando las leyes, obtenemos la siguiente tabla
 
