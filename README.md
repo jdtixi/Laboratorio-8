@@ -21,6 +21,33 @@
        Fundamentos de Circuitos Eléctricos
        
        
+---------------------
+
+# 1. Objetivo General
+
+Comprobar por medio de la práctica, la simulación y el análisis, el Teorema de Máxima Transferencia de Potencia, además, de mejorar la comprensión debido al circuito armado en el simulador para comprobar las respuestas obtenidas en los cálculos. 
+
+
+---------------------
+
+# 2. Objetivos Específicos 
+       
+-	Abstraer de forma sencilla y clara el conocimiento sobre cuando es importante obtener la Máxima Transferencia de Potencia.
+-	Reconocer la utilidad y mejorar la comprensión sobre el Teorema de Máxima Transferencia de Potencia. 
+-	Comprobar la aplicabilidad de como la potencia máxima se entrega a la carga cuando la resistencia de carga es igual a la resistencia interna de una fuente donde podemos trabajar mejor en los conceptos principales.
+             
+       
+---------------------
+
+# 3. Marco Teórico
+
+Durante este parcial los temas tratados se entrelazan para mejorar la comprensión sobre los fundamentos de circuitos eléctricos, logrando que se entienda mejor el teorema de Máxima Transferencia de Potencia, donde se establece que la resistencia de carga que maximiza la transferencia de potencia es la que mantiene el valor óhmico igual a la resistencia de fuente. Especialmente ya que puede contribuir a encontrar el Teorema de Norton y Thevenin, mismos que fueron explicados en mayor profundidad en los laboratorios anteriores. Tal es el caso del tema que abordaremos en esta ocasión a lo largo de este laboratorio, el teorema de Máxima Transferencia de Potencia así nos encontramos con un circuito que armado en el simulador de Tinkercad, puede mejorar la comprensión de este tema. 
+
+*** Teorema de Máxima Transferencia de Potencia ***
+
+Uno de los primeros conceptos y principal que debemos abordar en este informe es el teorema de Máxima Transferencia de Potencia se puede aplicar tanto a los circuitos de CC como a los circuitos CA, con la diferencia de que la resistencia se reemplaza por la impedancia en el circuito de CA. Además, es importante recalcar que este teorema mantiene un tratamiento especial ya que hay posibles valores que puede tomar en cuestión la carga, como es el caso de energía alterna donde esta es una impedancia y con cada variación somos consientes que la aplicación varía de acuerdo con los tipos de valores. 
+Uno de los personajes destacados al momento de abordar este tema es el físico e ingeniero alemán Moritz Hermann von Jacobi, a quien se le atribuye el descubrimiento de la Ley de Jacobi. También el Teorema de Máxima Potencia establece como escoger la resistencia de carga, una vez que la resistencia de fuente ha sido fijada. Incluso debemos tomar en cuenta que, dada una cierta resistencia de carga, la resistencia de potencia es siempre de valor nulo, sin depender del valor de la resistencia de carga.
+
        
 # 4. Lista de componentes
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/166453232_275715357327841_3501731949848602196_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGP6_2g_eG-YPT0Gj1cymogZqKpTW_aEK1moqlNb9oQrYsbO2iW-XbLYHM9cvsmOyQcIxwLoTyQVaRPR1DLQXf6&_nc_ohc=5zU-NASdwyEAX_2gy_-&_nc_ht=scontent.fuio1-1.fna&oh=26c881dd78561b660b6d86c714282994&oe=60860A3D)
